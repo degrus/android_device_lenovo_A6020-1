@@ -10,5 +10,5 @@ PRODUCT_PACKAGES += \
 # libboringssl-compat
 
 # Stlport
-PRODUCT_PACKAGES += \
-    libstlport
+#PRODUCT_PACKAGES += \
+#    libstlport
