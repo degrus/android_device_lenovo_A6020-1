@@ -20,3 +20,6 @@ PRODUCT_PACKAGES += \
     libQWiFiSoftApCfg \
     wcnss_service \
     libwpa_client
+
+PRODUCT_PACKAGES += \
+    android.hardware.wifi@1.0-service
