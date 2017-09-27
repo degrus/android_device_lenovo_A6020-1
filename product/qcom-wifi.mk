@@ -1,6 +1,7 @@
 # Wifi
 PRODUCT_PACKAGES += \
     dhcpcd.conf \
+    hostapd_default.conf \
     hostapd \
     wificond \
     wifilogd \
